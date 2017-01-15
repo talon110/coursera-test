@@ -14,9 +14,6 @@ h2 {
 .container {
 	width: 100%;
 }
-body {
-	padding-top: 80px;
-}
 *[id]:before { 
   display: block;
   margin-top: -90px; 
