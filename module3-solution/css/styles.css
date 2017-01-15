@@ -1,0 +1,23 @@
+div.navbar-brand {
+	clear: all;
+	height: auto;
+}
+h1 {
+	font-size: 24px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+.container {
+	width: 100%;
+}
+body {
+	padding-top: 80px;
+}
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -90px; 
+  height: 90px; 
+  visibility: hidden; 
+}
